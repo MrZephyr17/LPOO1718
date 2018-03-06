@@ -20,3 +20,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+Programming tests/Bank/\.settings/
+
+Programming tests/Bank/\.classpath
+
+Programming tests/Bank/\.project
+
+*.prefs
+
+Programming tests/Geometry/\.project
+
+Programming tests/Geometry/\.classpath
+
+Programming tests/LogicGates/\.classpath
+
+Programming tests/LogicGates/\.project
+
+Programming tests/RailRoads/\.classpath
+
+Programming tests/RailRoads/\.project
